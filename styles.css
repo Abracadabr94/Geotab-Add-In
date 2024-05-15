@@ -1,0 +1,31 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 20px;
+}
+
+.geotabPageHeader {
+    background-color: #0077C8;
+    color: white;
+    padding: 10px;
+}
+
+.geotabPageName {
+    margin: 0;
+}
+
+.geotabButton {
+    background-color: #0077C8;
+    color: white;
+    border: none;
+    padding: 10px 20px;
+    cursor: pointer;
+}
+
+.geotabButton:disabled {
+    background-color: grey;
+    cursor: not-allowed;
+}
+
+.ioxoutput {
+    margin: 10px 0;
+}
