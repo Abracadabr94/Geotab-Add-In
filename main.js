@@ -5,7 +5,7 @@ document.addEventListener("DOMContentLoaded", function() {
     const errorDiv = document.getElementById('ioxoutput-error');
 
     // Fetch vehicles from GitHub Pages
-    fetch('https://your-username.github.io/your-repo/vehicles.json')
+    fetch('https://cdn.jsdelivr.net/gh/Abracadabr94/Geotab-Add-In@main/vehicles.json')
         .then(response => response.json())
         .then(data => {
             data.vehicles.forEach(vehicle => {
