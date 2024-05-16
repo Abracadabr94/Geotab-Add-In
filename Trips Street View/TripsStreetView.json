@@ -1,0 +1,16 @@
+{
+	"name": "Trips Street View (by Geotab)",
+	"supportEmail": "integrations@geotab.com",
+	"version": "1.0.1",
+	"items": [
+		{
+			"url": "https://cdn.jsdelivr.net/gh/Geotab/addin-trips-streetview/tripsStreetView.html",
+			"path": "MapLink/",
+			"menuName": {
+				"en": "Trips Street View"
+			},
+			"icon": "https://cdn.jsdelivr.net/gh/Geotab/addin-trips-streetview/images/icon.svg"
+		}
+	],
+	"isSigned": false
+}
