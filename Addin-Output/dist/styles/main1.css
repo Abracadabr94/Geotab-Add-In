@@ -1,0 +1,69 @@
+/* Styling for loading indicator */
+#ioxOutput #ioxoutput-loading {
+  position: absolute;
+  bottom: 40px;
+  right: 105px;
+  display: none;
+}
+
+/* Styling for map */
+#ioxOutput #ioxoutput-map {
+  height: 100%;
+  right: 341px;
+}
+
+/* Styling for controls */
+#ioxOutput #ioxoutput-controls {
+  position: absolute;
+  width: 300px;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  padding: 20px;
+  background-color: #f7f7f7;
+  border-left: 1px solid #aaa;
+}
+
+/* Styling for error messages */
+#ioxOutput #ioxoutput-error {
+  margin-top: 20px;
+  color: #c00;
+}
+
+/* Styling for header paragraph */
+#ioxOutput #ioxoutput-header-paragraph {
+  margin-top: 5px;
+}
+
+/* Styling for text input and select elements */
+#ioxOutput .ioxoutput input[type=text],
+#ioxOutput select {
+  padding: 10px;
+  width: calc(100% - 20px);
+  margin-bottom: 10px;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+}
+
+/* Styling for disclaimer */
+#ioxOutput #disclaimer {
+  background-color: #e5f7fd;
+  border: 1px solid #e5f7fd;
+  color: #25477b;
+  fill: #25477b;
+  width: fit-content;
+  border-radius: 6px;
+  padding: 10px;
+  position: relative;
+  margin-bottom: 20px;
+}
+
+/* Styling for disclaimer label */
+#ioxOutput #disclaimerLabel {
+  font-size: 14px;
+  font-weight: 600;
+  letter-spacing: 1px;
+  text-transform: uppercase;
+  margin-bottom: 5px;
+  color: #25477b;
+}
