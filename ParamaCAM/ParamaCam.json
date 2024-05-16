@@ -1,0 +1,15 @@
+{
+	"name": "ParamaCAM",
+	"supportEmail": "khunkyaw@myanmarparama.com",
+	"version": "1.0",
+	"items": [
+		{
+			"url": "https://live.myanmarparama.com/ttx-login.html",
+			"path": "ParamaCAM",
+			"menuName": {
+				"en": "ParamaCAM"
+			}
+		}
+	],
+	"isSigned": false
+}
