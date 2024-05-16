@@ -1,0 +1,16 @@
+{
+	"name": "ZenduCAM",
+	"supportEmail": "support@zenduit.com",
+	"version": "1.0",
+	"items": [
+		{
+			"url": "https://trax.zenduit.com/trax.html",
+			"path": "ZenduCAM",
+			"menuName": {
+				"en": "ZenduCAM"
+			},
+			"icon": "https://drive.google.com/uc?export=view&id=0B7wozTB4o7sGY0pGYnI4dWJSUDQ"
+		}
+	],
+	"isSigned": false
+}
