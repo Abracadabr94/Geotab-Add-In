@@ -2,12 +2,14 @@
   "name": "IOX Output",
   "supportEmail": "integrations@geotab.com",
   "version": "1.1.0",
-  "items": [{
-    "url": "https://cdn.jsdelivr.net/gh/Abracadabr94/Geotab-Add-In@main/Addin-Output/dist/ioxOutput.html",
-    "path": "AdministrationLink/",
-    "menuName": {
-      "en": "IOX Output"
+  "items": [
+    {
+      "url": "https://cdn.jsdelivr.net/gh/Abracadabr94/Geotab-Add-In@main/Addin-Output/dist/ioxOutput.html",
+      "path": "AdministrationLink/",
+      "menuName": {
+        "en": "IOX Output"
     },
     "icon": "https://cdn.jsdelivr.net/gh/Abracadabr94/Geotab-Add-In@main/Addin-Output/dist/images/icon.svg"
-  }]
+  }
+  ]
 }
