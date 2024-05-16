@@ -1,0 +1,16 @@
+{
+	"name": "BeWhere Beacons",
+	"supportEmail": "support@bewhere.com",
+	"version": "1.0",
+	"items": [
+		{
+			"url": "https://app.bewhere.com/frame.html",
+			"path": "ActivityLink",
+			"menuName": {
+				"en": "BeWhere Admin"
+			},
+			"icon": "https://app.bewhere.com/legacy/components/img/bewhere_action.png"
+		}
+	],
+	"isSigned": false
+}
