@@ -3,7 +3,7 @@
   "supportEmail": "integrations@geotab.com",
   "version": "1.1.0",
   "items": [{
-    "url": "https://cdn.jsdelivr.net/gh/Geotab/sdk-addin-samples@master/addin-iox-output/dist/ioxOutput.html",
+    "url": "https://cdn.jsdelivr.net/gh/Abracadabr94/Geotab-Add-In@main/Addin-Output/dist/ioxOutput.html",
     "path": "AdministrationLink/",
     "menuName": {
       "en": "IOX Output"
