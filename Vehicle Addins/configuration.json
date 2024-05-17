@@ -7,7 +7,7 @@
       "page": "map",
       "title": "Vehicle Info",
       "mapScript": {
-        "url": "/vehicleInfo/addin.html"
+        "url": "https://cdn.jsdelivr.net/gh/Abracadabr94/Geotab-Add-In@main/Vehicle%20Addins/addin.html"
       }
     }
   ]
